@@ -8,4 +8,4 @@ Various devices equipped with embedded accelerometers can be worn on the body du
 
 The goal of this study is to make a reasonable prediction. To do this, we run models that produce predictions typical of each model. We compare the metrics of each (accuracy and error rates) & select the best prediction as our outcome. We focus on the ‘classe’ variable in the above described training set: A,B,C,D,E.
 
-*second submission - dec 8, 2020/ not sure why this has not been peer reviewed, but it has been posted for several weeks - resubmitted in case something broke.
+*second submission - dec 8, 2020/ not sure why this has not yet been peer reviewed, as it has been posted for several weeks - resubmitted in case something broke.
